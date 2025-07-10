@@ -1,0 +1,136 @@
+body {
+    background-color: #191a22;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+main {
+    background-color: #1E1F29;
+    border-radius: 10px;
+    padding: 48px;
+}
+
+h1{
+    color: #FAFAFA;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Andale Mono', sans-serif;
+    text-align: center;
+    margin: 0 0 32px 0;
+}
+
+.field {
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.field img {
+    position: absolute;
+    top: 17px;
+    left: 15px;
+}
+
+.link_form__wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+}
+
+input, textarea, select {
+    background: #2E2D3D;
+    color: #FAFAFA;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    font-family: 'Andale Mono', sans-serif;
+    padding: 27px 48px 12px;
+    border-radius: 10px;
+    border: none;
+    width: 500px;
+}
+
+
+
+textarea {
+    min-height: 80px; /* Заменяем height на min-height */
+    resize: vertical; /* Разрешаем изменять высоту */
+}
+
+select {
+    width: 600px;
+}
+
+textarea {
+    height: 80px;
+}
+
+label {
+    position: absolute;
+    top: 12px;
+    left: 48px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+    color: #AFB2BF;
+}
+
+input::placeholder, 
+textarea::placeholder, 
+select::placeholder {
+    color: #4c4e67;
+    font-size: 16px;
+}
+
+button {
+    background-color: #6C38CC;
+    color: #FAFAFA;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 24px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+    text-align: center;
+}
+
+@media (max-width: 640px) {
+    input,textarea {
+        width: 450px;
+    }
+    
+    select {
+        width: 550px;
+    }
+
+    .field, button {
+        margin-left: 50px;
+        width: 550px;
+    }
+}
+
+@media (max-width: 500px) {
+
+    main {
+        align-items: center;
+    }
+
+    input,textarea {
+        width: 350px;
+    }
+    
+    select {
+        width: 450px;
+    }
+
+    .field, button {
+        margin-left: 150px;
+        width: 450px;
+    }
+
+    h1 {
+        margin-left: 150px;
+    }
+}
