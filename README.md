@@ -1,9 +1,10 @@
 # 🎨 HTML/CSS Layout Projects Portfolio 
-
+## 🖼️ Design Mockups
 ![Figma 1/2](https://www.figma.com/design/7KDxobww8bmdTb1FhKJUyM/09---HTML-%D0%B8-CSS?node-id=0-1&p=f&t=NdHQiWDVRNGUPG96-0)
 ![Figma 2/2](https://www.figma.com/design/7KDxobww8bmdTb1FhKJUyM/09---HTML-%D0%B8-CSS?node-id=2-1063&p=f&t=KBbAxE3WBtOJYVOW-0)
-![Stepik Certificate](https://stepik.org/cert/2885965?lang=en)
-![Course](https://stepik.org/course/146294/syllabus)
+## 📜 Certifications
+![[Stepik Certificate](https://stepik.org/certificate-icon.svg)](https://stepik.org/cert/2885965?lang=en)
+![[Course](https://stepik.org/favicon.ico)](https://stepik.org/course/146294/syllabus)
 
 
 ## 📚 Course Projects Overview
@@ -14,16 +15,12 @@ by Anton Larichev on Stepik
 
 ### 🏗️ Projects Structure
 
-| Project                  | Technologies                                                                |
-|--------------------------|-----------------------------------------------------------------------------|
-| **Miro Training**        | HTML5 Semantic, Flexbox, Basic CSS;                                         | 
-| **PurpleSchool Project** | CSS Grid, Adavnced Flexbox, Media Queries, CSS Variables, BEM methodology;  | 
-|--------------------------------------------------------------------------------------------------------|
-| Key Skills                                                                                             |
-|--------------------------------------------------------------------------------------------------------|
-| Semantic structure, Flexbox layouts, Form styling fundamentals;                                        |
-| Complex Grid layouts, Mobile-first responsive design, Component-based architecture, Responisve basics; |
-|--------------------------------------------------------------------------------------------------------|
+| Project                  | Technologies                                                                | Key Skills   
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------| 
+| **Miro Training**        | HTML5 Semantic, Flexbox, Basic CSS;                                         | Semantic structure, Flexbox layouts, Form styling fundamentals;  
+| **PurpleSchool Project** | CSS Grid, Adavnced Flexbox, Media Queries, CSS Variables, BEM methodology;  | Complex Grid layouts, Mobile-first responsive design, Component-based architecture, Responisve basics; 
+|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|                                                                                            
+
 
 
 ## 🛠️ Projects Details
