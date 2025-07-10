@@ -44,5 +44,5 @@ by Anton Larichev on Stepik
 - None-interactive webpage
 - Uses Flexbox and Grid for layout
 - Adaptive design
-- BEM architecture
+- BEM methodology
 
