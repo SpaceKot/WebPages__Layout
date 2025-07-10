@@ -1,0 +1,16 @@
+{
+  "name": "purpleschool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "zip": "powershell Compress-Archive -Path .\\* -DestinationPath submission.zip -Force"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
