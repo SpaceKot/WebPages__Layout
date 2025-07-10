@@ -23,7 +23,7 @@ by Anton Larichev on Stepik
 | Project                  | Technologies                                                                | Key Skills   
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------| 
 | **Miro Training**        | HTML5 Semantic, Flexbox, Basic CSS                                          | Semantic structure, Flexbox layouts, Form styling fundamentals, Component-based architecture
-| **PurpleSchool Project** | CSS Grid, Adavnced Flexbox, Media Queries, CSS Variables, BEM methodology   | Complex Grid layouts, Mobile-first responsive design, Component-based architecture, Responisve basics
+| **PurpleSchool Project** | CSS Grid, Adavnced Flexbox, Media Queries, CSS Variables, BEM methodology   | Complex Grid layouts, Mobile-first responsive design, Component-based architecture, Responsive basics
                                                                                            
 ---
 
