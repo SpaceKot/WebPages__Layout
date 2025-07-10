@@ -33,7 +33,7 @@ by Anton Larichev on Stepik
 **Goal**🎯: Learn the basic principles of layout before creating the main mockup
 
 **Components**🧩:
-- A none-interactive webpage
+- None-interactive webpage
 - Uses Flexbox for layout
 - Desktop-only design
 
@@ -41,8 +41,8 @@ by Anton Larichev on Stepik
 **Goal**🎯: Create a professional, responsive educational platform mockup webpage
 
 **Components**🧩:
-- A none-interactive webpage
+- None-interactive webpage
 - Uses Flexbox and Grid for layout
-- Desktop design
+- Adaptive design
 - BEM architecture
 
