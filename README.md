@@ -5,9 +5,9 @@ Figma 1/2 - https://www.figma.com/design/7KDxobww8bmdTb1FhKJUyM/09---HTML-%D0%B8
 Figma 2/2 - https://www.figma.com/design/7KDxobww8bmdTb1FhKJUyM/09---HTML-%D0%B8-CSS?node-id=2-1063&p=f&t=KBbAxE3WBtOJYVOW-0
 
 #### 📜 Certification
-Stepik Certificate - https://stepik.org/certificate-icon.svg)](https://stepik.org/cert/2885965?lang=en
+Stepik Certificate - https://stepik.org/cert/2885965?lang=en
 
-Course - https://stepik.org/favicon.ico)](https://stepik.org/course/146294/syllabus
+Course - https://stepik.org/course/146294/syllabus
 
 ---
 
