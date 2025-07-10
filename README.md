@@ -37,7 +37,7 @@ by Anton Larichev on Stepik
 - Uses Flexbox for layout
 - Desktop-only design
 
-#### 2. PurpleSChool Project
+#### 2. PurpleSсhool Project
 **Goal**🎯: Create a professional, responsive educational platform mockup webpage
 
 **Components**🧩:
