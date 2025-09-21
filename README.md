@@ -7,7 +7,7 @@
 #### 📜 Certification
 [Stepik_Certificate](https://stepik.org/cert/2885965?lang=en)
 
-[Course](https://stepik.org/course/146294/syllabus)
+[Course](https://stepik.org/course/146294/info)
 
 ---
 
