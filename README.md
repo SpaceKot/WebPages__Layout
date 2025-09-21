@@ -14,7 +14,6 @@
 ### 📚 Course Projects Overview
 
 Projects completed as part of **"HTML and CSS - Complete Layouts Course from Scratch"**
-by Anton Larichev on Stepik
 
 ---
 
